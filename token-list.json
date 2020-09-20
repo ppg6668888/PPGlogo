@@ -1,0 +1,25 @@
+{
+  "name": "book",
+  "logoURI": "http://m.qpic.cn/psc?/V50zx9CG1tMloF2FrJ834FkfCR2GGGwx/ruAMsa53pVQWN7FLK88i5isUNZR.Ug9uU14fYoTaSOVmGkvubXsAUcfhnz9LzdjzX6ZGZfiR4abJCMPywha.FShw4jBRMNVIwRNtP*J3PP8!/b&bo=kAEsAQAAAAADB54!&rf=viewer_4",
+  "keywords": [
+      "book",
+      "book",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xaa447665ea0e9bbb7f756f72d12fc6d9f4b8c9a9",
+      "name": "book",
+      "symbol": "book",
+      "decimals": 18,
+      "logoURI": "http://m.qpic.cn/psc?/V50zx9CG1tMloF2FrJ834FkfCR2GGGwx/ruAMsa53pVQWN7FLK88i5isUNZR.Ug9uU14fYoTaSOVmGkvubXsAUcfhnz9LzdjzX6ZGZfiR4abJCMPywha.FShw4jBRMNVIwRNtP*J3PP8!/b&bo=kAEsAQAAAAADB54!&rf=viewer_4"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
